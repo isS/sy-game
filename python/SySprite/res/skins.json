@@ -1,0 +1,32 @@
+{
+    "test":
+    {
+        "type": "button",
+        "name": "test",
+        "text": "测试",
+        "states" : {
+            "common" : "IngameTextureSheets4.fishing_button_rollover",
+            "down"   : "IngameTextureSheets4.fishing_button"
+        },
+        "font" : {
+            "name" : "msyh",
+            "size" : 12,
+            "color" : "225,225,225",
+            "bold" : false,
+            "italic" : false,
+            "anchor_y" :"center",
+            "anchor_x" :"center",
+            "dpi" :96,
+            "x":0,
+            "y":0
+        },
+        "align" : "",
+        "pos_x" : 0,
+        "pos_y": 0,
+        "anchor_x" : 10,
+        "anchor_y" : 10,
+        "width": 76,
+        "height" : 76
+    }
+
+}
